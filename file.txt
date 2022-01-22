@@ -1,0 +1,2 @@
+File 2 contains 2 lines.
+It is the second line.
